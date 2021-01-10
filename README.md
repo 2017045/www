@@ -1,2 +1,3 @@
 # www
-Personal Websote
+Personal Website
+Welcome to my page
